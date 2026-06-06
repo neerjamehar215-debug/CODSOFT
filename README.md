@@ -18,6 +18,13 @@ User: hello
 Bot: hello!
 User: how are you
 Bot: I am fine.
+user: bye
+Bot: Goodbye!
+## Learning Outcomes
+- Learned python basics
+- Learned conditional statements
+- Built-ruled based chatbot
+- Understood user input handling
 ## Author
 Neerja Mehar
 Codsoft AI Internship
